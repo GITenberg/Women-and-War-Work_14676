@@ -1,0 +1,27 @@
+_repo: Women-and-War-Work_14676
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fraser, Helen
+    gutenberg_agent_id: '5632'
+    url: http://www.gutenberg.org/2009/agents/5632
+description: A teacher in England describes the contributions of British women during
+  World War I.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14676'
+  lccn: '18002612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Women'
+title: Women and War Work
+url: http://www.gutenberg.org/ebooks/14676
